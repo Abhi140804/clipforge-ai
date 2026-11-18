@@ -1,0 +1,13 @@
+uvicorn
+starlette
+sse-starlette
+python-multipart
+jinja2
+pillow
+numpy
+opencv-python-headless
+pyjwt
+requests
+# optional, recommended:
+# faster-whisper   (local speech recognition)
+# yt-dlp           (YouTube / Twitch / Kick links)
